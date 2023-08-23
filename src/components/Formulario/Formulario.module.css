@@ -1,0 +1,26 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 960px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.title {
+    color: #636e72;
+    font-size: 40px;
+    margin: 100px 0 16px;
+}
+
+.input {
+    padding: 10px;
+    margin: 0 5px 16px;
+    border: 1px solid #00cec9;
+    color: #636e72;
+}
+
+.p {
+    color: #636e72;
+    font-size: 16px;
+}
